@@ -63,8 +63,8 @@ Brute-LI Scanner is designed to **discover hidden URLs and endpoints** on websit
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/brute-li-scanner.git
-cd brute-li-scanner
+git clone https://github.com/57ayush76/Brute-li.git
+cd brute-li
 
 # Install dependencies
 pip install -r requirements.txt
